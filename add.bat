@@ -9,6 +9,6 @@
 @timeout /t 3 > nul
 @echo Please wait. Adding...
 @timeout /t 4 > nul
-@echo 95%item% >> ChristmasList.txt
+@echo -%item% >> ChristmasList.txt
 @echo Done
 @timeout /t 5
